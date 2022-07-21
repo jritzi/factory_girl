@@ -84,7 +84,7 @@ GEM
     thread_safe (0.1.2-java)
       atomic
     timecop (0.6.2.2)
-    tzinfo (0.3.37)
+    tzinfo (0.3.61)
     yard (0.8.7)
 
 PLATFORMS
